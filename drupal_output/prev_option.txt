@@ -1,0 +1,20 @@
+SOTH20003_SM2_2012 -- Social Theory and Political Analysis
+SOTH30001_SM2_2012 -- Critical Theories
+SOTH40002_SM2_2012 -- Imagined Societies
+SOTH40004_SM2_2012 -- Social Theory Thesis
+SPAN10002_SM2_2012 -- Spanish 2
+SPAN10004_SM2_2012 -- Spanish 4
+SPAN20003_SM2_2012 -- Spanish 4
+SPAN10008_SM2_2012 -- Spanish 6
+SPAN20019_SM2_2012 -- Spanish 6
+SPAN30015_SM2_2012 -- Spanish 6
+SPAN20001_SM2_2012 -- Hispanic Cultural Studies 1
+SPAN30001_SM2_2012 -- Contemporary Hispanic Studies
+SPAN40006_SM2_2012 -- Spanish & Latin American Studies Thesis
+UNIB10005_SM2_2012 -- Internet Meets Society
+UNIB10013_SM2_2012 -- Catastrophes as Turning Points
+UNIB20004_SM2_2012 -- Learning Cultures: Minds, Ideas, Objects
+UNIB20013_SM2_2012 -- Body, Mind and Medicine: A Dissection
+UNIB30007_SM2_2012 -- Sex, Race, Species and Social Justice
+VISM40004_SM2_2012 -- Practical Project
+VISM90001_SM2_2012 -- Text, Time and Space

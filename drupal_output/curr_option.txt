@@ -1,0 +1,504 @@
+MGMT90126_AUG_2013 -- Budgets and Financial Management
+MULT50001_JUL_2013 -- Research Principles and Practices
+POLS40017_NOV_2013 -- Social Policy and Development
+101AA_RS2_2013 -- Ph.D.- Arts
+102DS_RS2_2013 -- Master of Arts in Development Studies(Thesis only)
+102FC_RS2_2013 -- Master of Arts (Art History)(Thesis)
+102GB_RS2_2013 -- Master of Arts in French Language and Literature (Thesis)
+102JB_RS2_2013 -- Master of Arts in History (Thesis)
+102KD_RS2_2013 -- Master of Arts in History and Philosophy of Science (Thesis)
+102MM_RS2_2013 -- Master of Arts (Media and Communication) Adv.Seminar & Shorter Thesis
+102OB_RS2_2013 -- Master of Arts in Political Science (Thesis)
+ENGL90001_RS2_2013 -- Major Thesis - English Language & Lit.
+MGMT90128_SEP_2013 -- Project Management
+AHIS20019_SM2_2013 -- Art in Medieval Europe
+AIND40001_SM2_2013 -- First Principles
+AIND40002_SM2_2013 -- Australian Indigenous Studies Thesis
+ANCW40011_SM2_2013 -- Ancient World Studies Thesis
+CWRI30013_SM2_2013 -- Biography and Autobiography
+ENGL40020_SM2_2013 -- Australian Theatre and Performance
+HEBR30014_SM2_2013 -- Intermediate Hebrew B
+HIST20065_SM2_2013 -- Rebels and Revolutionaries
+MECM40016_SM2_2013 -- Audiovisual Communication
+MGMT90129_SM2_2013 -- Group Project
+MGMT90130_SM2_2013 -- Internship I
+MGMT90131_SM2_2013 -- Internship II
+MGMT90161_SM2_2013 -- Internship III
+MULT10001_SM2_2013 -- Aboriginalities
+MULT10017_SM2_2013 -- Representation
+MULT20010_SM2_2013 -- Arts Internship
+MULT30019_SM2_2013 -- Arts Internship
+MULT20012_SM2_2013 -- Community Volunteering for Change
+MULT30020_SM2_2013 -- Community Volunteering for Change
+MULT30018_SM2_2013 -- Applied Research Methods
+MULT90023_SM2_2013 -- Arts PhD Research Workshop
+MULT90026_SM2_2013 -- PhD Elective 1
+MULT90027_SM2_2013 -- PhD Elective 2
+POLS20029_SM2_2013 -- UQ:Human Rights & International Politics
+POLS90034_SM2_2013 -- International Policymaking in Practice
+SOCI10002_SM2_2013 -- Sociology of Work and Occupations
+SOCI20011_SM2_2013 -- Organisations, Power and Society
+MULT90026_WIN_2013 -- PhD Elective 1
+MULT90027_WIN_2013 -- PhD Elective 2
+ACUR90001_JUL_2013 -- Issues in Art Conservation
+CWRI90004_JUL_2013 -- Creative Writing Advanced Workshop
+MGMT90132_JUL_2013 -- Professional Communication
+PUBL90018_JUL_2013 -- Research Methodologies
+SCRN90006_JUL_2013 -- Film Festival Cultures
+AHIS40020_NOV_2013 -- Museology in Florence
+ACUR90004_SM2_2013 -- Minor Thesis - Art Curatorship
+ACUR90005_SM2_2013 -- Interpreting Exhibitions
+ACUR90006_SM2_2013 -- Project Management in the Arts
+AHIS10002_SM2_2013 -- Modern Art: The Politics of the New
+AHIS20020_SM2_2013 -- Avant-Garde and Postmodern Art
+AHIS30003_SM2_2013 -- Baroque Art in Polycentric Europe
+AHIS30019_SM2_2013 -- Art History in the World
+AHIS40008_SM2_2013 -- Futurism and Fascist Art in Italy
+AHIS40015_SM2_2013 -- Histories and Theories of Conservation
+AHIS40017_SM2_2013 -- Art History Thesis
+AHIS40021_SM2_2013 -- Art History Thesis
+AHIS90007_SM2_2013 -- Biennales, Triennales and Documentas
+AIND10002_SM2_2013 -- Communication and Performance 2
+AIND20005_SM2_2013 -- Aboriginal Land, Law and Philosophy
+AIND20010_SM2_2013 -- Australian Environmental Philosophy
+AIND30007_SM2_2013 -- Critical Debates in Indigenous Studies
+AIND30011_SM2_2013 -- Aboriginal Writing
+AIND40006_SM2_2013 -- Australian Indigenous Studies Thesis
+AMGT90001_SM2_2013 -- Arts Management
+AMGT90006_SM2_2013 -- Audience and the Arts
+AMGT90011_SM2_2013 -- Advanced Arts Policy
+AMGT90012_SM2_2013 -- Managing Creative Content
+AMGT90014_SM2_2013 -- Directed Reading in Cultural Management
+AMGT90015_SM2_2013 -- Cultural Management Project (Sem Long)
+AMGT90016_SM2_2013 -- Cultural Management Project (Year Long)
+AMGT90018_SM2_2013 -- The Economics of Culture
+AMGT90019_SM2_2013 -- Minor Thesis - Arts Management
+CICU30012_SM2_2013 -- Contemporary Film and Cultural Theory
+CULS10005_SM2_2013 -- Media, Identity and Everyday Life
+CULS20014_SM2_2013 -- Television, Lifestyle & Consumer Culture
+CULS30002_SM2_2013 -- Asian Cinema and Media
+CULS40006_SM2_2013 -- Cultural Studies in Asia
+CULS40009_SM2_2013 -- Cultural Studies Thesis
+CULS40011_SM2_2013 -- Cultural Studies Now
+CWRI20002_SM2_2013 -- Short Fiction
+CWRI20009_SM2_2013 -- Writing for Screen
+CWRI30004_SM2_2013 -- Encounters with Writing
+CWRI30005_SM2_2013 -- Writing For Theatre
+CWRI40008_SM2_2013 -- Creative Writing Thesis - 50
+CWRI40009_SM2_2013 -- Genealogies of Place
+CWRI40014_SM2_2013 -- Writing Australia
+CWRI90008_SM2_2013 -- Minor Thesis - Creative Writing
+ENGL10001_SM2_2013 -- Modern and Contemporary Literature
+ENGL20009_SM2_2013 -- The Australian Imaginary
+ENGL20020_SM2_2013 -- Romanticism, Feminism, Revolution
+ENGL20022_SM2_2013 -- Modernism and Avant Garde
+ENGL20025_SM2_2013 -- Reverberations of Terror: 1789-1900
+ENGL30002_SM2_2013 -- Critical Debates
+ENGL30006_SM2_2013 -- Travel Writing and Postcolonialism
+ENGL30012_SM2_2013 -- Art/Pornography/Blasphemy/Propaganda
+ENGL30036_SM2_2013 -- Theatre After the Sixties
+ENGL30046_SM2_2013 -- Romancing the Medieval
+ENGL40003_SM2_2013 -- Medieval Temporalities
+ENGL40019_SM2_2013 -- English Thesis
+ENGL40022_SM2_2013 -- Cosmic Pandemonium in Paradise Lost
+ENGL40023_SM2_2013 -- English & Theatre Studies Thesis
+ENST10001_SM2_2013 -- Environment and Story
+GEND10001_SM2_2013 -- Introducing Gender: Sex, Sport and Film
+GEND20006_SM2_2013 -- Sexing the Canvas: 10 Works in the NGV
+GEND20007_SM2_2013 -- Hidden Histories: Gender and Testimony
+MAST10015_SM2_2013 -- Foundation Mathematics for Commerce 2
+MECM20003_SM2_2013 -- Net Communications
+MECM20010_SM2_2013 -- Comparing Media Systems
+MECM20011_SM2_2013 -- Approaches to Media Research
+MECM30002_SM2_2013 -- Perspectives in Global Media Cultures
+MECM30004_SM2_2013 -- Media Futures and New Technologies
+MECM30005_SM2_2013 -- Media Law
+MECM30006_SM2_2013 -- Media and Communications Internship
+MECM30007_SM2_2013 -- Media & Communications Research Project
+MECM30008_SM2_2013 -- Advanced Writing
+MECM30013_SM2_2013 -- Marketing Communications
+MECM40007_SM2_2013 -- Change in Journalism
+MECM40011_SM2_2013 -- Writing for the Media
+MECM40017_SM2_2013 -- Media & Communications Thesis
+MECM90002_SM2_2013 -- Global Media Governance
+MECM90007_SM2_2013 -- Media Convergence and Digital Culture
+MECM90012_SM2_2013 -- Media and Communications Thesis
+MECM90017_SM2_2013 -- Media Writing: Rhetoric and Practice
+MULT90018_SM2_2013 -- Internship I (Placement Only)
+MULT90019_SM2_2013 -- Internship II (Placement & Research)
+MULT90025_SM2_2013 -- Internship II (Year Long)
+PHIL10004_SM2_2013 -- Ideas and Society
+PUBL90001_SM2_2013 -- Structural Editing
+PUBL90002_SM2_2013 -- Editorial English
+PUBL90005_SM2_2013 -- Technical Writing and Editing
+PUBL90006_SM2_2013 -- Writing and Editing for Digital Media
+PUBL90012_SM2_2013 -- Practicum
+PUBL90016_SM2_2013 -- Publishing and Communications 5B
+PUBL90017_SM2_2013 -- Publishing and Communications Thesis
+PUBL90019_SM2_2013 -- Print Markets: Structures and Strategies
+PUBL90020_SM2_2013 -- Advanced Book Publishing
+PUBL90021_SM2_2013 -- Editing Masterclass
+SCRN20014_SM2_2013 -- Film Genres and Auteurs
+SCRN30002_SM2_2013 -- Film Genres and Media Hybrids
+SCRN30004_SM2_2013 -- Film Noir: History and Sexuality
+SCRN30005_SM2_2013 -- The Digital Screenscape
+SCRN40006_SM2_2013 -- Film, Art and Exhibition
+SCRN40009_SM2_2013 -- Screen Media and Mediated Experiences
+SCRN40013_SM2_2013 -- Censorship: Film, Art and Media
+SCRN40016_SM2_2013 -- Screen & Cultural Studies Thesis
+SCRN90002_SM2_2013 -- Film Production: From Script to Screen
+UNIB30007_SM2_2013 -- Sex, Race, Species and Social Justice
+VISM40004_SM2_2013 -- Practical Project
+VISM90001_SM2_2013 -- Text, Time and Space
+CUMC40005_AUG_2013 -- Conservation Assessment and Treatment 1
+CUMC40004_JUL_2013 -- Preventive Conservation
+CUMC90003_JUL_2013 -- Conservation Intensive
+CUMC90009_JUL_2013 -- Conservation of Photographs 1
+CUMC90015_JUL_2013 -- Duplication, Archiving and Preservation
+HPSC30025_JUL_2013 -- Philosophy of Biology (Science 3)
+HPSC30028_JUL_2013 -- Philosophy of Biology
+CUMC40006_OCT_2013 -- Analytical Chemistry in Conservation
+CUMC40002_SEP_2013 -- RESPECT
+ANCW10002_SM2_2013 -- Myth, Art and Empire: Greece and Rome
+ANCW20010_SM2_2013 -- Ancient Greece: Archaic to Classical
+ANCW20013_SM2_2013 -- Egyptian and Near Eastern Mythology
+ANCW30004_SM2_2013 -- Comparative Civilizations
+ANCW30017_SM2_2013 -- Interpreting the Ancient World
+ANCW30019_SM2_2013 -- Greek Pre-history, 3000-1000 BCE
+ANCW30021_SM2_2013 -- Imperial Rome: Mediterranean Superpower
+ANCW40001_SM2_2013 -- Euripides, Seneca, and Mythmaking
+ANCW40003_SM2_2013 -- Archaeology of Complex Societies
+ANCW40013_SM2_2013 -- Ancient World Studies Thesis
+AUST20005_SM2_2013 -- Migrant Nation: Culture and Identity
+AUST30001_SM2_2013 -- Researching Australia: Issues, Agendas
+CLAS10005_SM2_2013 -- Ancient Greek 2
+CLAS10007_SM2_2013 -- Latin 2
+CLAS10014_SM2_2013 -- Latin 4
+CLAS20031_SM2_2013 -- Latin 4
+CLAS10021_SM2_2013 -- Ancient Greek 4
+CLAS20016_SM2_2013 -- Ancient Greek 4
+CLAS20014_SM2_2013 -- Ancient Greek 6
+CLAS30025_SM2_2013 -- Ancient Greek 6
+CLAS30009_SM2_2013 -- Latin 6
+CLAS40032_SM2_2013 -- Classics Thesis
+CLAS40035_SM2_2013 -- Classics Honours Seminar 2
+CULS40010_SM2_2013 -- Secret Life of Things: Material Culture
+CUMC90006_SM2_2013 -- Conservation Internship
+CUMC90007_SM2_2013 -- Minor Thesis - Conservation
+HEBR10002_SM2_2013 -- Beginners Hebrew B
+HEBR20012_SM2_2013 -- Beginners Hebrew B
+HEBR10014_SM2_2013 -- Advanced Hebrew B
+HIST10010_SM2_2013 -- Age of Empires
+HIST10012_SM2_2013 -- The World Since World War II
+HIST20010_SM2_2013 -- Great Empires of Islamic Civilisation
+HIST20059_SM2_2013 -- U.S. History to 1941: Claiming Freedom
+HIST20060_SM2_2013 -- Total War: World War Two
+HIST20067_SM2_2013 -- Contact, Conflict, New Worlds: 1450-1750
+HIST30006_SM2_2013 -- The Renaissance in Italy
+HIST30015_SM2_2013 -- The Modern Middle East
+HIST30059_SM2_2013 -- Race in America
+HIST30060_SM2_2013 -- Making History
+HIST40028_SM2_2013 -- History Thesis
+HIST40036_SM2_2013 -- History Thesis
+HIST40033_SM2_2013 -- Major Issues in Modern American History
+HIST90024_SM2_2013 -- International History
+HIST90026_SM2_2013 -- History, Memory and Violence in Asia
+HIST90031_SM2_2013 -- International Relations Minor Thesis
+HPSC10001_SM2_2013 -- From Plato to Einstein
+HPSC20001_SM2_2013 -- Darwinism: history of a very big idea
+HPSC20020_SM2_2013 -- God and the Natural Sciences
+HPSC30004_SM2_2013 -- Darwinism: history of a very big idea S3
+HPSC30035_SM2_2013 -- Knowledge in the Making
+JEWI30005_SM2_2013 -- Research in Contemporary Jewish Studies
+MULT20013_SM2_2013 -- Australia Now
+PHIL10003_SM2_2013 -- Philosophy: The Great Thinkers
+PHIL20018_SM2_2013 -- Matters of Life and Death
+PHIL20030_SM2_2013 -- Meaning, Possibility and Paradox
+PHIL20039_SM2_2013 -- The Nature of Reality
+PHIL20041_SM2_2013 -- Phenomenology and Existentialism
+PHIL20042_SM2_2013 -- Language, Communication and Representation
+PHIL30007_SM2_2013 -- The Philosophy of Philosophy
+PHIL30016_SM2_2013 -- Knowledge and Reality
+PHIL30047_SM2_2013 -- Objectivity and Value
+PHIL40002_SM2_2013 -- Recent European Philosophy
+PHIL40003_SM2_2013 -- Topics in Moral Psychology
+PHIL40007_SM2_2013 -- Philosophy of Language and Mind
+PHIL40013_SM2_2013 -- Uncertainty, Vagueness and Disagreement
+PHIL40015_SM2_2013 -- Philosophy Thesis
+PHIL40019_SM2_2013 -- Philosophy Thesis
+PHIL40018_SM2_2013 -- Topics in Contempory Epistemology
+PHIL90005_SM2_2013 -- Applied Ethics: Directed Research
+PHIL90009_SM2_2013 -- Violence, War and Terrorism
+PHIL90015_SM2_2013 -- Issues in Professional & Applied Ethics
+PHIL90016_SM2_2013 -- Shorter Applied Ethics Thesis
+PHIL90017_SM2_2013 -- Longer Applied Ethics Thesis
+PHIL90024_SM2_2013 -- Philosophy Methods
+UNIB10005_SM2_2013 -- Internet Meets Society
+UNIB10013_SM2_2013 -- Catastrophes as Turning Points
+UNIB20004_SM2_2013 -- Learning Cultures: Minds, Ideas, Objects
+UNIB20013_SM2_2013 -- Body, Mind and Medicine: A Dissection
+CRIM90010_AUG_2013 -- Crime Prevention: Critical Approaches
+PPMN90006_AUG_2013 -- Public Management
+PPMN90037_AUG_2013 -- Governance
+ANTH30015_JUL_2013 -- High Points in Theory and Ethnography
+CRIM40005_JUL_2013 -- The New Punitiveness?
+CRIM90011_JUL_2013 -- Research and Criminal Justice Governance
+CRIM90020_JUL_2013 -- Framing Crime
+DEVT90005_JUL_2013 -- Development Studies Special Topics B
+DEVT90046_JUL_2013 -- Family, Community and Development
+POLS90031_JUL_2013 -- Special Topics: International Relations
+PPMN90010_JUL_2013 -- Professional Practice in Policy
+POLS90037_SEP_2013 -- Corruption in Today's World
+PPMN90007_SEP_2013 -- Policy Design and Implementation
+PPMN90032_SEP_2013 -- Managing Change and Leading Innovation
+ANTH10001_SM2_2013 -- Anthropology: Studying Human Diversity
+ANTH20007_SM2_2013 -- Working with Value
+ANTH20011_SM2_2013 -- Ethnic Nationalism and the Modern World
+ANTH30003_SM2_2013 -- Myth, Ritual and Performance
+ANTH30009_SM2_2013 -- Anthropology of Nature
+ANTH30013_SM2_2013 -- Theory & the Anthropological Imagination
+ANTH40007_SM2_2013 -- Anthropology & Social Theory Thesis
+ANTH40008_SM2_2013 -- Anthropology Thesis
+CRIM20003_SM2_2013 -- Policing
+CRIM20004_SM2_2013 -- Order, Disorder, Crime, Deviance
+CRIM20006_SM2_2013 -- Punishment and Social Control
+CRIM30001_SM2_2013 -- Crime and Public Policy
+CRIM30005_SM2_2013 -- Crimes of the Powerful
+CRIM30009_SM2_2013 -- Comparative Criminology
+CRIM30010_SM2_2013 -- Managing Justice: Agencies and the State
+CRIM40003_SM2_2013 -- Drugs and Justice
+CRIM40006_SM2_2013 -- Criminology Thesis
+CRIM40007_SM2_2013 -- Criminology Thesis
+CRIM90005_SM2_2013 -- Minor Thesis - Criminology
+CRIM90006_SM2_2013 -- Criminology and Sociology Internship
+CRIM90015_SM2_2013 -- Terror, Law and War
+CRIM90018_SM2_2013 -- Advances in Criminology: Emerging Theory
+DEVT20001_SM2_2013 -- Development in the 21st Century
+DEVT40004_SM2_2013 -- Directed Study in Development
+DEVT40008_SM2_2013 -- Development Studies Thesis
+DEVT50002_SM2_2013 -- Poverty, Microfinance and Development
+DEVT90002_SM2_2013 -- Internship in Development
+DEVT90008_SM2_2013 -- International Internship in Development
+DEVT90011_SM2_2013 -- Minor Thesis - Development Studies
+DEVT90035_SM2_2013 -- Monitoring and Evaluation in Development
+DEVT90040_SM2_2013 -- Gender Issues in Development
+DEVT90043_SM2_2013 -- Management in Development B
+DEVT90047_SM2_2013 -- Development Strategies
+GEND30002_SM2_2013 -- The Future of Sex and Gender
+GEND90004_SM2_2013 -- Minor Thesis - Gender and Development
+GEND90007_SM2_2013 -- Rethinking Rights and Global Development
+GEND90008_SM2_2013 -- Gender Reading Course
+INTS10001_SM2_2013 -- International Politics
+MULT20008_SM2_2013 -- Australian Indigenous Politics
+MULT50002_SM2_2013 -- Indigenous Peoples in Global Context
+POLS10003_SM2_2013 -- Introduction to Political Ideas
+POLS20008_SM2_2013 -- Public Policy Making
+POLS20011_SM2_2013 -- Sexual Politics
+POLS20023_SM2_2013 -- Comparative Politics
+POLS30002_SM2_2013 -- Public Affairs Internship (Int.Students)
+POLS30003_SM2_2013 -- Public Affairs Internship
+POLS30007_SM2_2013 -- Change & Conflict in Australian Society
+POLS30019_SM2_2013 -- Australian Foreign Policy
+POLS30022_SM2_2013 -- Global Environmental Politics
+POLS30027_SM2_2013 -- Global Movements: Protest and the Planet
+POLS40011_SM2_2013 -- Political Science Thesis
+POLS40014_SM2_2013 -- A Postcolonial International Relations?
+POLS40015_SM2_2013 -- Women in Global Politics
+POLS40016_SM2_2013 -- Asia-Pacific: Zone of Conflict or Peace?
+POLS40020_SM2_2013 -- Politics & International Studies Thesis
+POLS90007_SM2_2013 -- US Foreign Policy
+POLS90009_SM2_2013 -- International Relations Internship
+POLS90013_SM2_2013 -- Politics and Business in post-Mao China
+POLS90022_SM2_2013 -- International Security
+POLS90024_SM2_2013 -- Approaches to Comparative Politics
+POLS90026_SM2_2013 -- International Political Economy
+POLS90027_SM2_2013 -- International Relations Minor Thesis
+POLS90031_SM2_2013 -- Special Topics: International Relations
+POLS90038_SM2_2013 -- Human Rights
+PPMN40003_SM2_2013 -- Executive Internship
+PPMN90002_SM2_2013 -- Minor Thesis - Public /Social Policy
+PPMN90030_SM2_2013 -- Public Policy in the Asian Century
+PPMN90031_SM2_2013 -- Public Policy Lobbying Strategies
+PPMN90033_SM2_2013 -- Public Budgets and Financial Management
+PPMN90034_SM2_2013 -- Ideas in Politics
+SOCI20013_SM2_2013 -- Classical Sociological Theory
+SOCI20014_SM2_2013 -- Sociology of Youth
+SOCI30003_SM2_2013 -- Sociology of Youth
+SOCI30009_SM2_2013 -- Living in a Risk Society
+SOCI40005_SM2_2013 -- Sociology Thesis
+SOCI90003_SM2_2013 -- Comparative Social Policy
+SOCI90004_SM2_2013 -- Contemporary Social Problems
+SOCI90005_SM2_2013 -- Social Research Design and Evaluation
+SOCI90009_SM2_2013 -- A Century of Australian Social Policy
+SOLS10001_SM2_2013 -- Law in Society
+SOLS20001_SM2_2013 -- Law, Justice and Social Change
+SOLS90002_SM2_2013 -- Social Theory Thesis
+SOTH40004_SM2_2013 -- Social Theory Thesis
+SOTH20003_SM2_2013 -- Social Theory and Political Analysis
+SOTH30001_SM2_2013 -- Critical Theories
+SOTH40002_SM2_2013 -- Imagined Societies
+ISLM90008_JUL_2013 -- Islam and Politics
+ISLM90012_JUL_2013 -- The Qur'an and the Prophet in Islam
+ARBC10004_SM2_2013 -- Arabic 6
+ARBC30005_SM2_2013 -- Arabic 6
+ARBC10006_SM2_2013 -- Arabic 2
+ARBC20003_SM2_2013 -- Arabic 8
+ARBC30007_SM2_2013 -- Arabic 8
+ARBC20005_SM2_2013 -- Arabic 4
+ARBC30001_SM2_2013 -- Arabic in Context 2
+ARBC40002_SM2_2013 -- Honours Arabic B
+ARBC90002_SM2_2013 -- Postgraduate Arabic B
+ASIA30002_SM2_2013 -- Identity, Ideology & Nationalism in Asia
+ASIA40002_SM2_2013 -- Asian Studies Thesis
+ASIA40003_SM2_2013 -- Asian Studies Thesis
+ASIA90001_SM2_2013 -- Human Rights in Southeast Asia
+CHIN10002_SM2_2013 -- Chinese 10
+CHIN20013_SM2_2013 -- Chinese 10
+CHIN10004_SM2_2013 -- Chinese 8
+CHIN20028_SM2_2013 -- Chinese 8
+CHIN10006_SM2_2013 -- Chinese 2
+CHIN10008_SM2_2013 -- Chinese 4 Post VCE
+CHIN10009_SM2_2013 -- Chinese Cinema
+CHIN20016_SM2_2013 -- Chinese Cinema
+CHIN30018_SM2_2013 -- Chinese Cinema
+CHIN10016_SM2_2013 -- Chinese 4A
+CHIN20002_SM2_2013 -- Chinese 4A
+CHIN10018_SM2_2013 -- Chinese 6
+CHIN20004_SM2_2013 -- Chinese 6
+CHIN30009_SM2_2013 -- Chinese 6
+CHIN20008_SM2_2013 -- China Since Mao
+CHIN20011_SM2_2013 -- Chinese 4B
+CHIN20021_SM2_2013 -- Analysis of Contemporary Chinese Society
+CHIN30006_SM2_2013 -- Analysis of Contemporary Chinese Society
+CHIN20025_SM2_2013 -- Human Rights in China & East Asia
+CHIN20026_SM2_2013 -- Advanced Chinese Translation
+CHIN30005_SM2_2013 -- Advanced Chinese Translation
+CHIN30001_SM2_2013 -- Classic Chinese Civilisation
+CHIN30003_SM2_2013 -- Chinese News Analysis
+CHIN90002_SM2_2013 -- Honours Chinese B
+INDO10002_SM2_2013 -- Indonesian 4
+INDO20007_SM2_2013 -- Indonesian 4
+INDO10004_SM2_2013 -- Indonesian 6
+INDO20009_SM2_2013 -- Indonesian 6
+INDO30007_SM2_2013 -- Indonesian 6
+INDO10006_SM2_2013 -- Indonesian 2
+INDO10011_SM2_2013 -- Diversity: Identities in Indonesia
+INDO30018_SM2_2013 -- Diversity: Identities in Indonesia
+INDO30003_SM2_2013 -- Popular Cultures in Indonesia
+INDO30006_SM2_2013 -- Literature: Reading Indonesian Lives
+INDO40006_SM2_2013 -- Indonesian Thesis
+INTS90007_SM2_2013 -- Globalisation and China
+ISLM10002_SM2_2013 -- Islam in the Modern World
+ISLM20003_SM2_2013 -- The Qur'an: An Introduction
+ISLM30001_SM2_2013 -- Islam in the West
+ISLM30003_SM2_2013 -- Ethical Traditions in Islam
+ISLM40001_SM2_2013 -- Topics in Arabic & Islamic Studies
+ISLM40009_SM2_2013 -- Islamic Studies Thesis
+ISLM40010_SM2_2013 -- Islamic Studies Thesis
+ISLM90011_SM2_2013 -- Reason and Revelation in Islam
+JAPN10002_SM2_2013 -- Japanese 2
+JAPN10004_SM2_2013 -- Japanese 6
+JAPN20014_SM2_2013 -- Japanese 6
+JAPN30008_SM2_2013 -- Japanese 6
+JAPN10006_SM2_2013 -- Japanese 8
+JAPN20004_SM2_2013 -- Japanese 8
+JAPN30006_SM2_2013 -- Japanese 8
+JAPN10008_SM2_2013 -- Japanese 4
+JAPN20008_SM2_2013 -- Japanese 4
+JAPN10009_SM2_2013 -- Reading Japanese Literature
+JAPN20011_SM2_2013 -- Reading Japanese Literature
+JAPN30011_SM2_2013 -- Reading Japanese Literature
+JAPN20002_SM2_2013 -- Introduction to Japanese Communication
+JAPN20010_SM2_2013 -- Japanese Grammar in Action
+JAPN30013_SM2_2013 -- Japanese Grammar in Action
+JAPN30002_SM2_2013 -- Social Problems in Japan
+JAPN30003_SM2_2013 -- Japanese Through Translation
+JAPN40002_SM2_2013 -- Honours Japanese B
+JAPN40007_SM2_2013 -- Japanese Thesis
+JAPN90003_SM2_2013 -- Postgraduate Japanese B
+FREN20009_NOV_2013 -- Paris: Ville Lumiere (on site in Paris)
+FREN30011_NOV_2013 -- Paris: Ville Lumiere (on site in Paris)
+ESLA10003_SM2_2013 -- Academic English 1
+ESLA10004_SM2_2013 -- Academic English 2
+EURO10001_SM2_2013 -- Europe: Narrating the Nation
+EURO20005_SM2_2013 -- Screening Europe: Image and Identity
+EURO30004_SM2_2013 -- Screening Europe: Image and Identity
+EURO40001_SM2_2013 -- Introduction to European Critical Theory
+EURO40002_SM2_2013 -- Seminars in Languages and Linguistics A
+FREN10003_SM2_2013 -- French 4
+FREN20017_SM2_2013 -- French 4
+FREN10005_SM2_2013 -- French 2
+FREN10007_SM2_2013 -- French 6
+FREN20002_SM2_2013 -- French 6
+FREN20003_SM2_2013 -- Romanticism to Decadence: French Novels
+FREN30005_SM2_2013 -- Romanticism to Decadence: French Novels
+FREN20004_SM2_2013 -- French Translation
+FREN30006_SM2_2013 -- French Translation
+FREN20016_SM2_2013 -- French Cultural Studies
+FREN30004_SM2_2013 -- French Post-Intermediate 3B
+FREN40003_SM2_2013 -- Medieval and Renaissance French
+FREN40009_SM2_2013 -- French Thesis
+GERM10002_SM2_2013 -- German 4
+GERM20005_SM2_2013 -- German 4
+GERM10005_SM2_2013 -- German 2
+GERM10007_SM2_2013 -- German 6
+GERM20008_SM2_2013 -- German 6
+GERM30006_SM2_2013 -- German 6
+GERM20002_SM2_2013 -- German 8
+GERM20003_SM2_2013 -- German Cultural Studies B
+GERM20006_SM2_2013 -- German Cultural Studies A
+GERM30001_SM2_2013 -- German Post-Inter Cultural Studies
+GERM30002_SM2_2013 -- German Cultural Studies 3
+GERM30004_SM2_2013 -- German Language and Culture 3B
+GERM40002_SM2_2013 -- German 4: Research Project
+GERM40015_SM2_2013 -- German Thesis
+ITAL10002_SM2_2013 -- Italian 4
+ITAL20008_SM2_2013 -- Italian 4
+ITAL10005_SM2_2013 -- Italian 2
+ITAL10007_SM2_2013 -- Italian 6
+ITAL20010_SM2_2013 -- Italian 6
+ITAL20003_SM2_2013 -- Italian 8
+ITAL30016_SM2_2013 -- Italian 8
+ITAL20009_SM2_2013 -- Italian Cultural Studies A
+ITAL30006_SM2_2013 -- Italian Fictions
+ITAL40014_SM2_2013 -- Italian Thesis
+LING10001_SM2_2013 -- The Secret Life of Language
+LING20003_SM2_2013 -- Second Language Learning and Teaching
+LING20006_SM2_2013 -- Syntax
+LING20010_SM2_2013 -- Language, Society and Culture
+LING20012_SM2_2013 -- Language and Media
+LING30001_SM2_2013 -- Exploring Linguistic Diversity
+LING30004_SM2_2013 -- Discourse & Pragmatics
+LING40001_SM2_2013 -- Directed Reading Project
+LING40006_SM2_2013 -- Linguistic Field Methods
+LING40014_SM2_2013 -- Linguistics & Applied Linguistics Thesis
+LING90002_SM2_2013 -- Presenting Academic Discourse
+LING90006_SM2_2013 -- Technology and Language Learning
+LING90009_SM2_2013 -- Language Testing
+LING90010_SM2_2013 -- Minor Thesis - Applied Linguistics
+LING90012_SM2_2013 -- Second Language Acquisition
+LING90015_SM2_2013 -- English Phonetics and Phonology
+LING90019_SM2_2013 -- English in a Globalised World
+LING90026_SM2_2013 -- Trans-Cultural Communication at Work
+MULT40006_SM2_2013 -- Special Research Subject B
+MULT40007_SM2_2013 -- Special Research Topics
+RUSS10002_SM2_2013 -- Russian 2
+RUSS20005_SM2_2013 -- Russian 4
+RUSS30002_SM2_2013 -- Russian 6
+SPAN10002_SM2_2013 -- Spanish 2
+SPAN10004_SM2_2013 -- Spanish 4
+SPAN20003_SM2_2013 -- Spanish 4
+SPAN10008_SM2_2013 -- Spanish 6
+SPAN20019_SM2_2013 -- Spanish 6
+SPAN30015_SM2_2013 -- Spanish 6
+SPAN20001_SM2_2013 -- Hispanic Cultural Studies 1
+SPAN30001_SM2_2013 -- Contemporary Hispanic Studies
+SPAN40006_SM2_2013 -- Spanish & Latin American Studies Thesis
+JOUR90002_SM2_2013 -- Journalism Thesis
+JOUR90003_SM2_2013 -- Journalism Internship
+JOUR90004_SM2_2013 -- Journalism Entrepreneurship in New Media
+JOUR90009_SM2_2013 -- Advanced Non Fiction Writing
+JOUR90010_SM2_2013 -- Applied Professional Practice/Journalism
+JOUR90012_SM2_2013 -- Journalism Project
+JOUR90013_SM2_2013 -- Public Interest Investigations
+MGMT90164_SM2_2013 -- EMA Special Project

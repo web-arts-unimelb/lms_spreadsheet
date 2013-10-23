@@ -1,0 +1,783 @@
+ACUR90002_2014_SM1 - Art Museums and Curatorship
+ACUR90004_2014_SM1 - Minor Thesis - Art Curatorship
+AHIS10001_2014_SM1 - Art History: Theory and Controversy
+AHIS20002_2014_SM1 - Australian Art
+AHIS20011_2014_SM1 - Renaissance Art in Florence and Venice
+AHIS20016_2014_SM1 - Art and Revolution
+AHIS30002_2014_SM1 - Art Fieldwork
+AHIS30020_2014_SM1 - Contemporary Art
+AHIS30021_2014_SM1 - The Medieval Image: Art and Culture
+AHIS40002_2014_SM1 - Indigenous Photography, New Media, Film
+AHIS40008_2014_SM1 - Twentieth-Century Italian Art: 1909 -1969
+AHIS40017_2014_SM1 - Art History Thesis
+AHIS40019_2014_SM1 - The Book: Late Antiquity to Renaissance
+AHIS40021_2014_SM1 - Art History Thesis
+AHIS70001_2014_RS1 - Shorter Thesis - Art History
+AHIS70002_2014_RS1 - Major Thesis - Art History
+AHIS90004_2014_SM1 - The Virtual Print Room
+AHIS90005_2014_SM1 - History and Philosophy of Museums
+AIND10001_2014_SM1 - Communication and Performance 1
+AIND20007_2014_SM1 - Key Thinkers and Concepts
+AIND20008_2014_SM1 - Aboriginal Women and Coloniality
+AIND20009_2014_SM1 - Racial Literacy: Indigeneity & Whiteness
+AIND30008_2014_SM1 - Historicising the Colonial Past
+AIND30010_2014_SM1 - Aboriginal Cultural Studies
+AIND40002_2014_SM1 - Australian Indigenous Studies Thesis
+AIND40003_2014_SM1 - Activism, Selves and Histories
+AIND40005_2014_SM1 - Textual Revelations
+AIND40006_2014_SM1 - Australian Indigenous Studies Thesis
+AIND70001_2014_RS1 - Major Thesis - Aust. Indigenous Studies
+AMGT40003_2014_SM1 - Arts Industry in Context
+AMGT50001_2014_FEB - Art and Cultural Management in Asia
+AMGT90002_2014_SM1 - Arts Law
+AMGT90004_2014_SM1 - Arts Policy and Issues
+AMGT90007_2014_SM1 - Advanced Arts Management
+AMGT90011_2014_SM1 - Advanced Arts Policy
+AMGT90013_2014_SM1 - Finance and Budgeting
+AMGT90014_2014_SM1 - Directed Reading in Cultural Management
+AMGT90015_2014_SM1 - Cultural Management Project (Sem Long)
+AMGT90016_2014_SM1 - Cultural Management Project (Year Long)
+AMGT90017_2014_SM1 - Communicating the Arts
+AMGT90019_2014_SM1 - Minor Thesis - Arts Management
+AMGT90024_2014_SM1 - Cultural Festivals and Special Events
+ANCW10001_2014_SM1 - Ancient Egypt and Mesopotamia
+ANCW10004_2014_JAN - Ancient Near Eastern Language: Syriac
+ANCW10005_2014_SM1 - Ancient Near Eastern Language: Egyptian
+ANCW20003_2014_SM1 - Egypt Under the Pharaohs
+ANCW20015_2014_SM1 - Classical Mythology
+ANCW20018_2014_JAN - Ancient Near Eastern Language: Syriac
+ANCW20020_2014_SM1 - Ancient Near Eastern Language: Egyptian
+ANCW30001_2014_SM1 - Special Study Research Project
+ANCW30011_2014_SM1 - Underworld and Afterlife
+ANCW30020_2014_JAN - Ancient Near Eastern Language: Syriac
+ANCW30022_2014_SM1 - Ancient Near Eastern Language: Egyptian
+ANCW30023_2014_FEB - Practical Archaeology
+ANCW40003_2014_SM1 - Archaeology of Complex Societies
+ANCW40010_2014_SM1 - Classical Studies and Archaeology Thesis
+ANCW40011_2014_SM1 - Ancient World Studies Thesis
+ANCW40013_2014_SM1 - Ancient World Studies Thesis
+ANCW40014_2014_SM1 - Research in Ancient World Studies
+ANCW40015_2014_SM1 - Gender and Sexuality in Greece and Rome
+ANCW70001_2014_RS1 - Major Thesis - Ancient World Studies
+ANCW70002_2014_RS1 - Major Thesis - Archaeology
+ANTH20001_2014_SM1 - Keeping the Body in Mind
+ANTH20011_2014_SM1 - Ethnic Nationalism and the Modern World
+ANTH20012_2014_SM1 - Engaging the World in Theory & Practice
+ANTH30004_2014_SM1 - Kinship and Family: A Global Perspective
+ANTH30005_2014_SM1 - Power, Ideology and Inequality
+ANTH30016_2014_SM1 - Biomedicine, Culture and Society
+ANTH40001_2014_MAR - Philosophy and Scope of Anthropology
+ANTH40003_2014_SM1 - Reading Anthropology
+ANTH40007_2014_SM1 - Anthropology & Social Theory Thesis
+ANTH40008_2014_SM1 - Anthropology Thesis
+ANTH70001_2014_RS1 - Major Thesis - Anthropology
+ANTH90004_2014_SM1 - Migration and Development
+ARBC10001_2014_SM1 - Arabic 3
+ARBC10003_2014_SM1 - Arabic 5
+ARBC10005_2014_SM1 - Arabic 1
+ARBC20001_2014_SM1 - Arabic in Context 1
+ARBC20002_2014_SM1 - Arabic 7
+ARBC20004_2014_SM1 - Arabic 3
+ARBC20006_2014_SM1 - Arabic 5
+ARBC30002_2014_SM1 - Arabic 9
+ARBC30004_2014_SM1 - Arabic 5
+ARBC30006_2014_SM1 - Arabic 7
+ARBC40001_2014_SM1 - Honours Arabic A
+ARBC40005_2014_SM1 - Arabic Studies Thesis
+ARBC40006_2014_SM1 - Arabic Studies Thesis
+ARBC70001_2014_RS1 - Major Thesis - Arabic
+ARBC90003_2014_SM1 - Postgraduate Arabic A
+ASIA10001_2014_SM1 - Language and Power in Asian Societies
+ASIA20001_2014_SM1 - Urban Culture in Asia
+ASIA40002_2014_SM1 - Asian Studies Thesis
+ASIA40003_2014_SM1 - Asian Studies Thesis
+ASIA70003_2014_RS1 - MRes Thesis
+ASIA90003_2014_SM1 - Minor Thesis - Asian Studies
+ASIA90004_2014_SM1 - Critical Asian Perspectives
+ASIA90005_2014_RS1 - PhD Research
+ASIA90006_2014_RS1 - MPhil Research
+ASIA90008_2014_SM1 - Asia and the World
+AUST30007_2014_JUN - Urban Legends: Melbourne Intensive
+AUST70001_2014_RS1 - Shorter Thesis - Australian Studies
+AUST70002_2014_RS1 - Major Thesis - Australian Studies
+AUST90003_2014_SM1 - Australian Studies Thesis
+CHIN10001_2014_SM1 - Chinese 9
+CHIN10003_2014_SM1 - Chinese 7
+CHIN10005_2014_SM1 - Chinese 1
+CHIN10007_2014_SM1 - Chinese 3 Post VCE
+CHIN10015_2014_SM1 - Chinese 3A
+CHIN10017_2014_SM1 - Chinese 5
+CHIN20001_2014_SM1 - Chinese 3A
+CHIN20003_2014_SM1 - Chinese 5
+CHIN20005_2014_SM1 - Modern Chinese Literature
+CHIN20006_2014_SM1 - Great Chinese Classics
+CHIN20007_2014_SM1 - Chinese Studies: Culture and Empire
+CHIN20009_2014_SM1 - Chinese Economic Documents
+CHIN20010_2014_SM1 - Chinese 3B
+CHIN20012_2014_SM1 - Chinese 9
+CHIN20022_2014_SM1 - Advanced Seminar in Chinese
+CHIN20027_2014_SM1 - Chinese 7
+CHIN20029_2014_SM1 - Understanding the New Media in China
+CHIN30002_2014_SM1 - Taiwan & Beyond: Chinese Settler Culture
+CHIN30007_2014_SM1 - Advanced Seminar in Chinese
+CHIN30008_2014_SM1 - Chinese 5
+CHIN30010_2014_SM1 - Modern Chinese Literature
+CHIN30011_2014_SM1 - Great Chinese Classics
+CHIN30012_2014_SM1 - Chinese Economic Documents
+CHIN30024_2014_SM1 - Understanding the New Media in China
+CHIN40004_2014_SM1 - Chinese Thesis
+CHIN40005_2014_SM1 - Chinese Thesis
+CHIN70001_2014_RS1 - Major Thesis - Chinese
+CHIN90001_2014_SM1 - Honours Chinese A
+CHIN90003_2014_SM1 - Topics in Chinese Studies
+CICU50001_2014_SM1 - Human Rights on Screen
+CLAS10003_2014_SUM - Intensive Beginners Latin
+CLAS10004_2014_SM1 - Ancient Greek 1
+CLAS10006_2014_SM1 - Latin 1
+CLAS10012_2014_SM1 - Latin 3
+CLAS10020_2014_SM1 - Ancient Greek 3
+CLAS10022_2014_JUN - Intensive Ancient Greek 1
+CLAS20013_2014_SM1 - Ancient Greek 5
+CLAS20015_2014_SM1 - Ancient Greek 3
+CLAS20021_2014_SUM - Intensive Beginners Latin
+CLAS20029_2014_SM1 - Latin 3
+CLAS20030_2014_SM1 - Latin 5
+CLAS20035_2014_JUN - Intensive Ancient Greek 1
+CLAS30004_2014_SUM - Intensive Beginners Latin
+CLAS30013_2014_SM1 - Latin 5
+CLAS30024_2014_SM1 - Ancient Greek 5
+CLAS30045_2014_JUN - Intensive Ancient Greek 1
+CLAS40020_2014_SM1 - Classics Thesis
+CLAS40032_2014_SM1 - Classics Thesis
+CLAS40033_2014_SM1 - Research in Classics
+CLAS40034_2014_SM1 - Classics Honours Seminar 1
+CLAS70001_2014_RS1 - Major Thesis - Classics
+CLAS90002_2014_RS1 - Major Thesis - Classics & Archaeology
+CRIM10001_2014_SM1 - From Graffiti to Terrorism
+CRIM20002_2014_SM1 - Criminal Law and Political Justice
+CRIM30002_2014_SM1 - Global Criminologies
+CRIM30006_2014_SM1 - Crime and Culture
+CRIM30011_2014_SM1 - Young People, Crime and Justice
+CRIM40002_2014_SM1 - Qualitative Research Methods
+CRIM40006_2014_SM1 - Criminology Thesis
+CRIM40007_2014_SM1 - Criminology Thesis
+CRIM70001_2014_RS1 - Major Thesis - Criminology
+CRIM90005_2014_SM1 - Minor Thesis - Criminology
+CRIM90006_2014_SM1 - Criminology and Sociology Internship
+CRIM90008_2014_MAR - Sovereignty, Justice, Indigenous Peoples
+CRIM90016_2014_SM1 - Global Reconstructions of Justice
+CRIM90017_2014_MAY_PAR_2 - Violence, Trauma and Human Rights
+CRIM90019_2014_SM1 - Advances in Criminological Research
+CRIM90024_2014_SM1 - Minor Thesis - Criminology
+CULS20015_2014_SM1 - Rock to Rave
+CULS20016_2014_SM1 - Media Histories
+CULS20017_2014_SM1 - Migrant Nation: Culture and Identity
+CULS30002_2014_SM1 - Asian Cinema and Media
+CULS30003_2014_SM1 - City Cultures
+CULS30004_2014_SM1 - Thinking Sex
+CULS30005_2014_FEB - Urban Legends: Melbourne Intensive
+CULS40001_2014_SM1 - Cultural Policy and Power
+CULS40005_2014_SM1 - Subcultural Studies
+CULS40009_2014_SM1 - Cultural Studies Thesis
+CULS70001_2014_RS1 - Major Thesis - Cultural Studies
+CULS90002_2014_SM1 - Cultural Studies Thesis
+CULS90003_2014_SM1 - Cultural Studies Thesis
+CUMC40001_2014_MAR - Conservation Professional Practices
+CUMC40003_2014_MAR - Introduction to Materials and Techniques
+CUMC40007_2014_APR - Technical Examination and Documentation
+CUMC40008_2014_MAY - Conservation Materials Chemistry
+CUMC70001_2014_RS1 - Major Thesis- Cultural Mat. Conservation
+CUMC90004_2014_FEB - Materials and Techniques of Artefacts
+CUMC90005_2014_FEB - Conservation Assessment and Treatment 2
+CUMC90006_2014_SM1 - Conservation Internship
+CUMC90007_2014_SM1 - Minor Thesis - Conservation
+CUMC90020_2014_APR - Audio Visual Preservation
+CUMC90022_2014_MAY - Digital Cultural Conservation
+CUMC90023_2014_JUN - Content Creation in the Field
+CWRI10001_2014_SM1 - Creative Writing: Ideas and Practice
+CWRI20005_2014_SM1 - Creative Non Fiction
+CWRI20006_2014_SM1 - Script for Performance
+CWRI20007_2014_SM1 - Poetry
+CWRI30001_2014_SM1 - Novels
+CWRI30006_2014_SM1 - Poetry and Poetics
+CWRI30014_2014_SM1 - Advanced Screenwriting
+CWRI40004_2014_SM1 - Theory For Writing
+CWRI40008_2014_SM1 - Creative Writing Thesis - 50
+CWRI40010_2014_SM1 - Contemporary Fictions
+CWRI40011_2014_SM1 - Graphic Narratives
+CWRI70002_2014_RS1 - Major Thesis - Creative Writing
+CWRI90008_2014_SM1 - Minor Thesis - Creative Writing
+CWRI90010_2014_SM1 - Writing for Children
+DEVT10001_2014_SM1 - The Developing World
+DEVT40004_2014_SM1 - Directed Study in Development
+DEVT40007_2014_SM1 - Health and Development
+DEVT40008_2014_SM1 - Development Studies Thesis
+DEVT70001_2014_RS1 - Major Thesis - Development Studies
+DEVT90001_2014_MAR - Project Management & Design
+DEVT90002_2014_JAN - Internship in Development
+DEVT90002_2014_SM1 - Internship in Development
+DEVT90005_2014_JUN - Development Studies Special Topics B
+DEVT90007_2014_JUN - Development Studies Special Topics A
+DEVT90008_2014_JAN - International Internship in Development
+DEVT90008_2014_SM1 - International Internship in Development
+DEVT90009_2014_SM1 - Development Theories
+DEVT90011_2014_SM1 - Minor Thesis - Development Studies
+DEVT90014_2014_RS1 - Shorter Thesis-International Development
+DEVT90039_2014_SM1 - Civil Society, NGOs and the State
+DEVT90041_2014_MAR - Research Methods for Development
+DEVT90042_2014_APR - Fieldwork in Complex and Hostile Places
+DEVT90044_2014_MAR - Management in Development A
+DEVT90045_2014_SM1 - Socio-Economic Development
+DEVT90048_2014_SM1 - Research in Development
+DEVT90049_2014_MAR - Politics of Development in Africa
+EDUC20067_2014_SUM_SIN_1 - Singapore Internship
+EDUC30068_2014_SUM_SIN_1 - Singapore Internship
+ENGL10002_2014_SM1 - Literature and Performance
+ENGL10004_2014_SM1 - Introduction to Indigenous Literature
+ENGL10005_2014_SM1 - English for Academic Purposes
+ENGL20009_2014_SM1 - The Australian Imaginary
+ENGL20020_2014_SM1 - Romanticism, Feminism, Revolution
+ENGL20022_2014_SM1 - Modernism and Avant Garde
+ENGL20030_2014_SM1 - Modern and Contemporary Drama
+ENGL20032_2014_SM1 - Poetry, Love, and Death
+ENGL30006_2014_SM1 - Travel Writing and Postcolonialism
+ENGL30007_2014_SM1 - Genre Fiction/Popular Fiction
+ENGL30016_2014_SM1 - Decadent Literature
+ENGL30036_2014_SM1 - Theatre After the Sixties
+ENGL30047_2014_SM1 - Literature, Ecology, Catastrophe
+ENGL40015_2014_SM1 - American Fiction: The 20th Century
+ENGL40018_2014_SM1 - Byromania: Romantic Literary Celebrity
+ENGL40019_2014_SM1 - English Thesis
+ENGL40023_2014_SM1 - English & Theatre Studies Thesis
+ENGL70001_2014_RS1 - MRes Thesis
+ENGL70002_2014_RS1 - Major Thesis - English Language
+ENST10002_2014_SM1 - Reading Western Literature
+ESLA10003_2014_SM1 - Academic English 1
+ESLA10004_2014_SM1 - Academic English 2
+ESLA10005_2014_SM1 - Academic English: Economics and Business
+EURO20002_2014_SM1 - European Modernism
+EURO30003_2014_SM1 - European Modernism
+EURO40002_2014_SM1 - Seminars in Languages and Linguistics A
+EURO40003_2014_SM1 - Seminars in Languages and Linguistics B
+EVSC90003_2014_RS1 - MSc Thesis (Environmental Science)
+EVSC90004_2014_RS1 - PhD Research
+EVSC90005_2014_RS1 - PhD Research
+EVSC90006_2014_RS1 - MSc Thesis (Environmental Science)
+EVSC90007_2014_RS1 - MPhil Research
+FREN10001_2014_SM1 - French 3
+FREN10004_2014_SM1 - French 1
+FREN10006_2014_SM1 - French 5
+FREN20001_2014_SM1 - French 5
+FREN20007_2014_SM1 - Immigration in France
+FREN20012_2014_SM1 - French Travel Writing
+FREN20015_2014_SM1 - French 3
+FREN20018_2014_JAN - Intensive French 3 and 4
+FREN20019_2014_SM1 - French 7
+FREN30001_2014_SM1 - French 7
+FREN30003_2014_SM1 - French 5
+FREN30014_2014_SM1 - French Travel Writing
+FREN30017_2014_SM1 - Immigration in France
+FREN40005_2014_SM1 - French IV: Honours Language I
+FREN40008_2014_SM1 - French Thesis
+FREN40009_2014_SM1 - French Thesis
+FREN70001_2014_RS1 - Major Thesis - French
+GEND20003_2014_SM1 - Genders, Bodies, Borders
+GEND20006_2014_SM1 - Sexing the Canvas: 10 Works in the NGV
+GEND40001_2014_SM1 - Gender Studies Thesis
+GEND40002_2014_SM1 - Gender Studies Reading Course
+GEND40003_2014_SM1 - Gender in Cross-Cultural Perspective
+GEND70001_2014_RS1 - Shorter Thesis - Gender Studies
+GEND70002_2014_RS1 - Major Thesis - Gender Studies
+GEND90004_2014_SM1 - Minor Thesis - Gender and Development
+GEND90006_2014_SM1 - Gender, Globalisation and Development
+GEND90008_2014_SM1 - Gender Reading Course
+GERM10001_2014_SM1 - German 3
+GERM10004_2014_SM1 - German 1
+GERM10006_2014_SM1 - German 5
+GERM10008_2014_SM1 - German 7
+GERM20001_2014_SM1 - German 7
+GERM20003_2014_SM1 - German Cultural Studies B
+GERM20004_2014_SM1 - German 3
+GERM20007_2014_SM1 - German 5
+GERM20009_2014_SM1 - German 9
+GERM30001_2014_SM1 - German Cultural Studies B
+GERM30002_2014_SM1 - German Cultural Studies 3
+GERM30003_2014_SM1 - German 9
+GERM30005_2014_SM1 - German 5
+GERM30021_2014_SM1 - German 7
+GERM40002_2014_SM1 - German 4: Research Project
+GERM40010_2014_SM1 - German Honours Language
+GERM40013_2014_SM1 - German Thesis
+GERM40015_2014_SM1 - German Thesis
+GERM70001_2014_RS1 - Major Thesis - German
+HEBR10001_2014_SM1 - Beginners Hebrew A
+HEBR10005_2014_SM1 - Intermediate Hebrew C
+HEBR10011_2014_SM1 - Advanced Hebrew C
+HEBR20005_2014_SM1 - Intermediate Hebrew C
+HEBR20007_2014_SM1 - Advanced Hebrew C
+HEBR20011_2014_SM1 - Beginners Hebrew A
+HEBR30001_2014_SM1 - Intermediate Hebrew C
+HEBR30003_2014_SM1 - Advanced Hebrew C
+HEBR30006_2014_SM1 - Beginners Hebrew A
+HIST10007_2014_SM1 - Medieval Plague, War and Heresy
+HIST10014_2014_SM1 - The Great War 1914 to 1918
+HIST20059_2014_SM1 - American History: Revolution to WWII
+HIST20060_2014_SM1 - Total War: World War II
+HIST20062_2014_JAN - UNott:The Contemporary World Since 1945
+HIST20065_2014_SM1 - Rebels and Revolutionaries
+HIST20072_2014_SM1 - Pirates and their Enemies
+HIST30059_2014_SM1 - Race in America
+HIST30064_2014_SM1 - Controversies in Australian History
+HIST30066_2014_SM1 - Cold War Cultures in Asia
+HIST30068_2014_SM1 - A History of Violence
+HIST30069_2014_SM1 - Confucianism, Commerce, Capitalism
+HIST40001_2014_SM1 - History 4A
+HIST40028_2014_SM1 - History Thesis
+HIST40030_2014_SM1 - History for Historians
+HIST40036_2014_SM1 - History Thesis
+HIST70001_2014_RS1 - MRes Thesis
+HIST70002_2014_RS1 - Shorter Thesis - History
+HIST70003_2014_RS1 - Major Thesis - History
+HIST90017_2014_RS1 - PhD Research
+HIST90018_2014_RS1 - MPhil Research
+HIST90023_2014_SM1 - The Writing of Australian History
+HIST90024_2014_SM1 - International History
+HIST90031_2014_SM1 - International Relations Minor Thesis
+HPSC10002_2014_SM1 - Science and Pseudoscience
+HPSC20002_2014_JAN - A History of Nature
+HPSC20009_2014_SM1 - iSociety: Technology and Contemporary Life
+HPSC20015_2014_FEB - Astronomy in World History
+HPSC20020_2014_SM1 - God and the Natural Sciences
+HPSC30023_2014_SM1 - Science and Society
+HPSC30034_2014_SM1 - Magic, Reason, New Worlds, 1450-1750
+HPSC40002_2014_SM1 - Directed Study
+HPSC40010_2014_SM1 - HPS Thesis
+HPSC40015_2014_SM1 - HPS Thesis
+HPSC40016_2014_SM1 - Contemporary Approaches in HPS
+HPSC70001_2014_RS1 - Shorter Thesis - HPS
+HPSC70002_2014_RS1 - Major Thesis - HPS
+HPSC90011_2014_SM1 - Science, Controversy and Public Policy
+IBUS20005_2014_JAN - TDM: Enterprise & Business in the World
+INDO10001_2014_SM1 - Indonesian 3
+INDO10003_2014_SM1 - Indonesian 5
+INDO10005_2014_SM1 - Indonesian 1
+INDO10012_2014_SM1 - Literature: Reading Indonesian Lives
+INDO10014_2014_SM1 - Unity: Evolving Indonesian Nationhood
+INDO20001_2014_SM1 - Analysing Indonesia: Concepts and Issues
+INDO20006_2014_SM1 - Indonesian 3
+INDO20008_2014_SM1 - Indonesian 5
+INDO20015_2014_SM1 - Literature: Reading Indonesian Lives
+INDO20017_2014_SM1 - Unity: Evolving Indonesian Nationhood
+INDO30006_2014_SM1 - Literature: Reading Indonesian Lives
+INDO30011_2014_SM1 - Indonesian 5
+INDO30020_2014_SM1 - Unity: Evolving Indonesian Nationhood
+INDO40001_2014_SM1 - Honours Indonesian A
+INDO40003_2014_SM1 - Topics in Indonesian Studies
+INDO40006_2014_SM1 - Indonesian Thesis
+INDO40007_2014_SM1 - Indonesian Thesis
+INDO70001_2014_RS1 - Major Thesis - Indonesian
+INDO90002_2014_SM1 - Postgraduate Indonesian A
+INTS70001_2014_RS1 - Shorter Thesis - International Justice
+INTS90003_2014_SM1 - International Studies Thesis
+INTS90008_2014_SM1 - Education and State Power in China
+ISLM10001_2014_SM1 - Understanding Islam and Muslim Societies
+ISLM20009_2014_SM1 - Islam, Media and Conflict
+ISLM20015_2014_SM1 - Crisis Zone: Middle Eastern Politics
+ISLM20016_2014_SM1 - Sufism: The Spiritual Dimension of Islam
+ISLM30015_2014_SM1 - Crisis Zone: Middle Eastern Politics
+ISLM40001_2014_SM1 - Topics in Arabic & Islamic Studies
+ISLM40009_2014_SM1 - Islamic Studies Thesis
+ISLM40010_2014_SM1 - Islamic Studies Thesis
+ISLM70001_2014_RS1 - Major Thesis - Islamic Studies
+ISLM90007_2014_FEB - Contemporary Middle East & Central Asia
+ISLM90013_2014_APR_PAR_2 - Human Rights and Islam
+ISLM90014_2014_SM1 - Islamic Studies Thesis
+ITAL10001_2014_SM1 - Italian 3
+ITAL10004_2014_SM1 - Italian 1
+ITAL10006_2014_SM1 - Italian 5
+ITAL20002_2014_SM1 - Italian 7
+ITAL20007_2014_SM1 - Italian 3
+ITAL20011_2014_SM1 - Italian 5
+ITAL30001_2014_SM1 - Italian 9
+ITAL30003_2014_SM1 - Italian 5A
+ITAL30010_2014_SM1 - Imaging Italy
+ITAL30013_2014_SM1 - Italian 5
+ITAL30015_2014_SM1 - Italian 7
+ITAL40001_2014_SM1 - Italian Honours Language Seminar 1
+ITAL40011_2014_SM1 - Italian Thesis
+ITAL40014_2014_SM1 - Italian Thesis
+ITAL70001_2014_RS1 - Major Thesis - Italian
+JAPN10001_2014_SM1 - Japanese 1
+JAPN10003_2014_SM1 - Japanese 5
+JAPN10005_2014_SM1 - Japanese 7
+JAPN10007_2014_SM1 - Japanese 3
+JAPN10010_2014_SM1 - Variation in Japanese Language
+JAPN20003_2014_SM1 - Japanese 7
+JAPN20005_2014_SM1 - Contemporary Japan
+JAPN20007_2014_SM1 - Japanese 3
+JAPN20009_2014_SM1 - Sign and Symbols in Japanese
+JAPN20012_2014_SM1 - Variation in Japanese Language
+JAPN20013_2014_SM1 - Japanese 5
+JAPN20018_2014_SM1 - Japanese Through the Media
+JAPN30004_2014_SM1 - Japanese through the Media
+JAPN30005_2014_SM1 - Japanese 7
+JAPN30007_2014_SM1 - Japanese 5
+JAPN30010_2014_SM1 - Sign and Symbols in Japanese
+JAPN30012_2014_SM1 - Variation in Japanese Language
+JAPN40001_2014_SM1 - Honours Japanese A
+JAPN40006_2014_SM1 - Japanese Thesis
+JAPN40007_2014_SM1 - Japanese Thesis
+JAPN70001_2014_RS1 - Major Thesis - Japanese
+JAPN90002_2014_SM1 - Postgraduate Japanese A
+JEWI10001_2014_SM1 - Modern Israel: Good Bad and Disputed
+JEWI70001_2014_RS1 - Major Thesis - Jewish Studies
+JOUR70001_2014_RS1 - Major Thesis - Journalism
+JOUR90001_2014_SM1 - Researching/Writing Stories
+JOUR90002_2014_SM1 - Journalism Thesis
+JOUR90003_2014_SM1 - Journalism Internship
+JOUR90005_2014_SM1 - Video and Audio Journalism
+JOUR90006_2014_JUN - Dilemmas in Journalism: Law and Ethics
+JOUR90008_2014_JUN - Advanced Multi Media Journalism
+JOUR90010_2014_SM1 - Applied Professional Practice/Journalism
+JOUR90011_2014_JAN - Data Journalism
+JOUR90012_2014_JAN - Journalism Project
+JOUR90012_2014_SM1 - Journalism Project
+LING10002_2014_SM1 - Intercultural Communication
+LING20005_2014_SM1 - Phonetics
+LING20009_2014_SM1 - Language in Aboriginal Australia
+LING20011_2014_SM1 - Grammar of English
+LING30007_2014_SM1 - Semantics
+LING30012_2014_SM1 - Language and Identity
+LING30013_2014_SM1 - Morphology
+LING40001_2014_SM1 - Directed Reading Project
+LING40002_2014_SM1 - Issues in Linguistic Research
+LING40009_2014_SM1 - Seminars in Descriptive Linguistics
+LING40012_2014_SM1 - Linguistics & Applied Linguistics Thesis
+LING40014_2014_SM1 - Linguistics & Applied Linguistics Thesis
+LING70001_2014_RS1 - MRes Thesis
+LING70002_2014_RS1 - Shorter Thesis - Applied Linguistics
+LING70003_2014_RS1 - Shorter Thesis - Linguistics
+LING70004_2014_RS1 - Major Thesis - Applied Linguistics
+LING70005_2014_RS1 - Major Thesis - Linguistics
+LING90002_2014_SM1 - Presenting Academic Discourse
+LING90003_2014_SM1 - Research in Applied Linguistics
+LING90003_2014_SM1_PAR_2 - Research in Applied Linguistics
+LING90005_2014_SM1 - Quantitative Methods in Language Studies
+LING90005_2014_SM1_PAR_2 - Quantitative Methods in Language Studies
+LING90008_2014_SM1_PAR_2 - Language Program Evaluation
+LING90008_2014_SM1_PAR_3 - Language Program Evaluation
+LING90010_2014_SM1 - Minor Thesis - Applied Linguistics
+LING90010_2014_SM1_PAR_2 - Minor Thesis - Applied Linguistics
+LING90016_2014_SM1 - Grammar in Use
+LING90016_2014_SM1_PAR_2 - Grammar in Use
+LING90018_2014_SM1 - Sociolinguistics and Language Learning
+LING90018_2014_SM1_PAR_2 - Sociolinguistics and Language Learning
+LING90019_2014_SM1 - English in a Globalised World
+LING90019_2014_SM1_PAR_2 - English in a Globalised World
+LING90020_2014_SM1 - Second Language Writing
+LING90020_2014_SM1_PAR_2 - Second Language Writing
+LING90022_2014_JAN - Intensive Academic Program
+LING90022_2014_JUN - Intensive Academic Program
+LING90023_2014_RS1 - PhD Research
+LING90024_2014_RS1 - MPhil Research
+MAST10014_2014_SM1 - Foundation Mathematics for Commerce 1
+MECM10003_2014_SM1 - Media and Society
+MECM20006_2014_SM1 - Understanding Australian Media
+MECM20009_2014_SM1 - Introduction to Media Writing
+MECM30006_2014_SM1 - Media and Communications Internship
+MECM30010_2014_SM1 - Writing Journalism
+MECM30015_2014_SM1 - Media and Communications Project
+MECM30016_2014_SM1 - Digital Media Research
+MECM40003_2014_SM1 - Researching Audiences and Reception
+MECM40006_2014_SM1 - Public Relations and Communications
+MECM40011_2014_SM1 - Writing for the Media
+MECM40017_2014_SM1 - Media & Communications Thesis
+MECM50001_2014_SM1 - Political Economy of the Network Society
+MECM70001_2014_RS1 - Shorter Thesis - Media & Communications
+MECM70002_2014_RS1 - Major Thesis - Media and Communications
+MECM90003_2014_SM1 - Mobility, Culture and Communication
+MECM90009_2014_SM1 - Global Crisis Reporting
+MECM90010_2014_JAN - Strategic Political Communication
+MECM90012_2014_SM1 - Media and Communications Thesis
+MECM90015_2014_FEB - History of Network Media
+MECM90016_2014_FEB - Representation and Advocacy
+MGMT90127_2014_MAR - Leadership Theory & Practice
+MGMT90129_2014_SM1 - Group Project
+MGMT90131_2014_SM1 - Internship II
+MGMT90132_2014_MAY - Professional Communication
+MGMT90164_2014_SM1 - EMA Special Project
+MULT10014_2014_SM1 - Identity
+MULT10015_2014_SM1 - Language
+MULT10016_2014_SM1 - Reason
+MULT10018_2014_SM1 - Power
+MULT20003_2014_SM1 - Critical Analytical Skills
+MULT20010_2014_SM1 - Arts Internship
+MULT20012_2014_SM1 - Community Volunteering for Change
+MULT20013_2014_SM1 - Australia Now
+MULT20014_2014_JAN - Community Volunteering for Change-Global
+MULT20014_2014_JUN - Community Volunteering for Change-Global
+MULT30008_2014_SM1 - Internship
+MULT30008_2014_SUM - Internship
+MULT30009_2014_SM1 - Internship
+MULT30009_2014_SUM - Internship
+MULT30010_2014_SM1 - Internship
+MULT30010_2014_SUM - Internship
+MULT30015_2014_SM1 - Independent Research
+MULT30015_2014_SUM - Independent Research
+MULT30016_2014_SM1 - Independent Research
+MULT30016_2014_SUM - Independent Research
+MULT30017_2014_SM1 - Indigenous People and Social Control
+MULT30019_2014_SM1 - Arts Internship
+MULT30020_2014_SM1 - Community Volunteering for Change
+MULT30021_2014_JAN - Community Volunteering for Change-Global
+MULT30021_2014_JUN - Community Volunteering for Change-Global
+MULT40001_2014_SM1 - Thesis Extension (25-point thesis)
+MULT40001_2014_SUM - Thesis Extension (25-point thesis)
+MULT40002_2014_SM1 - Thesis Extension (37.5-point thesis)
+MULT40002_2014_SUM - Thesis Extension (37.5-point thesis)
+MULT40003_2014_SM1 - Thesis Extension (50-point thesis)
+MULT40003_2014_SUM - Thesis Extension (50-point thesis)
+MULT40005_2014_SM1 - Special Research Subject A
+MULT40007_2014_SM1 - Special Research Topics
+MULT40008_2014_SM1 - Special Research Subject A
+MULT50001_2014_FEB - Research Principles and Practices
+MULT50002_2014_FEB - Indigenous Peoples in Global Context
+MULT90001_2014_RS1 - Doctor of Letters
+MULT90002_2014_SM1 - Supervised Reading (Asia Institute)
+MULT90008_2014_RS1 - PhD Research
+MULT90009_2014_RS1 - MPhil Research
+MULT90018_2014_SM1 - Internship I (Placement Only)
+MULT90019_2014_SM1 - Internship II (Placement & Research)
+MULT90023_2014_SM1 - Arts PhD Research Workshop
+MULT90025_2014_SM1 - Internship II (Year Long)
+MULT90026_2014_SM1 - PhD Elective 1
+MULT90027_2014_SM1 - PhD Elective 2
+MULT90028_2014_SM1 - GSHSS Advanced Special Study
+PADM90005_2014_MAR - The Nature of Governing
+PADM90006_2014_APR - The Rule of Law
+PADM90007_2014_FEB - The World of Public Administration
+PADM90011_2014_APR - Governing Challenges 1
+PHIL10002_2014_SM1 - Philosophy: The Big Questions
+PHIL20008_2014_SM1 - Ethical Theory
+PHIL20030_2014_SM1 - Meaning, Possibility and Paradox
+PHIL20038_2014_SM1 - Nietzsche and Critics
+PHIL20039_2014_SM1 - The Nature of Reality
+PHIL20040_2014_SM1 - Greek Philosophy
+PHIL30016_2014_SM1 - Knowledge and Reality
+PHIL30047_2014_SM1 - Objectivity and Value
+PHIL30051_2014_SM1 - Justice, Freedom and Equality
+PHIL40002_2014_SM1 - Recent European Philosophy
+PHIL40007_2014_SM1 - Philosophy of Language and Mind
+PHIL40015_2014_SM1 - Philosophy Thesis
+PHIL40019_2014_SM1 - Philosophy Thesis
+PHIL40020_2014_SM1 - Reading and Writing Philosophy
+PHIL70005_2014_RS1 - Shorter Thesis - Philosophy
+PHIL70006_2014_RS1 - Major Thesis - Applied Philosophy
+PHIL70007_2014_RS1 - Major Thesis - Philosophy
+PHIL90005_2014_SM1 - Applied Ethics: Directed Research
+PHIL90007_2014_SM1 - Literature Review
+PHIL90015_2014_SM1 - Issues in Professional & Applied Ethics
+PHIL90016_2014_SM1 - Shorter Applied Ethics Thesis
+PHIL90017_2014_SM1 - Longer Applied Ethics Thesis
+PHIL90018_2014_SM1 - Professional Ethics Thesis
+PHIL90020_2014_RS1 - MPhil Research
+PHIL90021_2014_SM1 - Creative Thinking & the Power of Ideas
+PHIL90022_2014_APR - Thinking and Acting Ethically
+PHIL90024_2014_SM1 - Philosophy Methods
+PHIL90025_2014_SM1 - Issues in Bioethics
+PHIL90026_2014_SM1 - Inequality and Public Policy
+PHIL90029_2014_SM1 - Sustainability and Environmental Ethics
+POLS10001_2014_SM1 - Australian Politics
+POLS20006_2014_SM1 - Contemporary Political Theory
+POLS20011_2014_SM1 - Sexual Politics
+POLS20023_2014_SM1 - Comparative Politics
+POLS20026_2014_SM1 - Politics and the Media
+POLS20030_2014_SM1 - UQ: Conceptions of World Politics
+POLS30001_2014_SM1 - Parliamentary Internship
+POLS30002_2014_SM1 - Public Affairs Internship (Int.Students)
+POLS30003_2014_SM1 - Public Affairs Internship
+POLS30011_2014_SM1 - Chinese Politics and Society
+POLS30018_2014_SM1 - European Integration: Politics of the EU
+POLS30028_2014_FEB - On Country Learning: Indigenous Studies
+POLS30030_2014_SM1 - American Politics
+POLS30031_2014_SM1 - Contemporary India
+POLS40002_2014_SM1 - Australian Politics:Democracy & Justice
+POLS40004_2014_SM1 - Justice, Democracy and Difference
+POLS40011_2014_SM1 - Political Science Thesis
+POLS40012_2014_SM1 - International Politics Thesis
+POLS40013_2014_FEB - Social Science Research Seminar
+POLS40015_2014_SM1 - Women in Global Politics
+POLS40017_2014_APR - Social Policy and Development
+POLS40019_2014_SM1 - The Fall of Australian Prime Ministers
+POLS40020_2014_SM1 - Politics & International Studies Thesis
+POLS70001_2014_RS1 - MRes Thesis
+POLS70002_2014_RS1 - Shorter Thesis - International Politics
+POLS70004_2014_RS1 - Major Thesis - Political Science
+POLS90009_2014_SM1 - International Relations Internship
+POLS90009_2014_SUM - International Relations Internship
+POLS90012_2014_SM1 - Trade Policy Politics & Governance
+POLS90015_2014_SM1 - Business and Government
+POLS90016_2014_SM1 - The United Nations: Review and Reform
+POLS90017_2014_SM1 - Europe and Asia: Competing Hegemons?
+POLS90019_2014_RS1 - PhD Research
+POLS90020_2014_RS1 - MPhil Research
+POLS90023_2014_SM1 - International Governance and Law
+POLS90027_2014_SM1 - International Relations Minor Thesis
+POLS90028_2014_SM1 - International Relations Theory
+POLS90030_2014_SM1 - Nuclear Weapons and Disarmament
+POLS90031_2014_MAR - Special Topics: International Relations
+POLS90031_2014_SM1 - Special Topics: International Relations
+POLS90034_2014_SM1 - International Policymaking in Practice
+POLS90036_2014_JAN - International Project
+POLS90039_2014_FEB - Peace and Security in Africa
+POLS90041_2014_SM1 - Global Campaigning: NGOs and Movements
+POLS90042_2014_SM1 - Latin America in the World
+PPMN40005_2014_SM1 - Public Policy & Management Thesis
+PPMN50001_2014_FEB - U21 Advanced International Study
+PPMN70001_2014_RS1 - Shorter Thesis - Policy Studies
+PPMN90002_2014_SM1 - Minor Thesis - Public /Social Policy
+PPMN90003_2014_MAR_PAR_2 - Social Policy: Special Topics
+PPMN90003_2014_SM1 - Social Policy: Special Topics
+PPMN90006_2014_MAR_PAR_2 - Public Management
+PPMN90007_2014_SM1 - Policy Design and Implementation
+PPMN90010_2014_JUN - Professional Practice in Policy
+PPMN90034_2014_SM1 - Ideas in Politics
+PPMN90037_2014_MAR - Governance
+PPMN90039_2014_SM1 - Executive Internship
+PUBL90001_2014_SM1 - Structural Editing
+PUBL90002_2014_SM1 - Editorial English
+PUBL90003_2014_SM1 - The Contemporary Publishing Industry
+PUBL90004_2014_SM1 - Business and Professional Communications
+PUBL90007_2014_SM1 - History of Books and Reading
+PUBL90009_2014_SM1 - Advanced Editing for Digital Media
+PUBL90010_2014_SM1 - Print Production and Design
+PUBL90012_2014_SM1 - Practicum
+PUBL90013_2014_SM1 - Advanced Magazine Editing and Publishing
+PUBL90014_2014_SM1 - Ethical and Legal Issues in Publishing
+PUBL90015_2014_SM1 - Publishing and Communications 5A
+PUBL90017_2014_SM1 - Publishing and Communications Thesis
+RUSS10001_2014_SM1 - Russian 1
+RUSS20004_2014_SM1 - Russian 3
+RUSS20006_2014_SM1 - Russian 5
+RUSS30001_2014_SM1 - Russian 5
+RUSS40005_2014_SM1 - Russian Thesis
+RUSS40006_2014_SM1 - Russian Language & Culture 4A
+RUSS40008_2014_SM1 - Russian Thesis
+RUSS70001_2014_RS1 - Major Thesis - Russian Studies
+SCRN10001_2014_SM1 - Introduction to Cinema Studies
+SCRN20011_2014_SM1 - Hollywood and Entertainment
+SCRN30001_2014_SM1 - Art Cinema and the Love Story
+SCRN40002_2014_SM1 - Contemporary Film Theory
+SCRN40009_2014_SM1 - Screen Media and Mediated Experiences
+SCRN40010_2014_SM1 - Dream Screen: Film and Psychoanalysis
+SCRN40012_2014_SM1 - Cinema Studies Thesis
+SCRN40014_2014_SM1 - Screen and Cultural Studies Thesis
+SCRN40015_2014_SM1 - Screen Studies Thesis
+SCRN40016_2014_SM1 - Screen & Cultural Studies Thesis
+SCRN50001_2014_SM1 - Moving Image Thesis
+SCRN70001_2014_RS1 - Major Thesis - Screen Studies
+SCRN90004_2014_SM1 - Visual Culture Industries
+SCRN90008_2014_SM1 - Cinema Management Thesis
+SOCI10001_2014_SM1 - Understanding Society
+SOCI20007_2014_SM1 - Terrorism: Shifting Paradigms
+SOCI20009_2014_JAN - UBC:Global Citizenship
+SOCI20009_2014_MAY - UBC:Global Citizenship
+SOCI20010_2014_JAN - LundU: Globalisation and Social Change
+SOCI30001_2014_SM1 - Contemporary Sociological Theory
+SOCI30010_2014_SM1 - Social Differences and Inequalities
+SOCI40002_2014_SM1 - Sociology Thesis
+SOCI40003_2014_SM1 - Understanding The Life Course
+SOCI40005_2014_SM1 - Sociology Thesis
+SOCI90001_2014_RS1 - Major Thesis - Sociology
+SOCI90002_2014_SM1 - Foundations of Social Policy
+SOCI90006_2014_MAR - Ageing, Society And Social Policy
+SOLS30001_2014_SM1 - Law in Social Theory
+SOLS40001_2014_SM1 - Socio-Legal Studies Thesis
+SOLS70001_2014_RS1 - Major Thesis - Socio-Legal Studies
+SOLS90002_2014_SM1 - Social Theory Thesis
+SOLS90003_2014_SM1 - Socio-Legal Studies Thesis
+SOTH20006_2014_MAR - LundU: Globalisation and Social Policy
+SOTH30001_2014_SM1 - Critical Theories
+SOTH40004_2014_SM1 - Social Theory Thesis
+SOTH70002_2014_RS1 - Shorter Thesis - Social Theory
+SOTH70003_2014_RS1 - Major Thesis - Social Theory
+SOTH90004_2014_SM1 - Reading Texts in Social Theory
+SPAN10001_2014_SM1 - Spanish 1
+SPAN10003_2014_SM1 - Spanish 3
+SPAN10007_2014_SM1 - Spanish 5
+SPAN20002_2014_SM1 - Spanish 3
+SPAN20017_2014_SM1 - Don Quijote Against the Universe
+SPAN20018_2014_SM1 - Spanish 5
+SPAN20020_2014_JAN - Intensive Intermediate Spanish
+SPAN20022_2014_SM1 - Spanish 7
+SPAN20024_2014_SM1 - Cooking up the Nation
+SPAN30013_2014_SM1 - Don Quijote Against the Universe
+SPAN30014_2014_SM1 - Spanish 5
+SPAN30016_2014_SM1 - Spanish 7
+SPAN30019_2014_SM1 - Cooking up the Nation
+SPAN40001_2014_SM1 - Spanish Thesis
+SPAN40002_2014_SM1 - Spanish Honours Language Seminar 1
+SPAN40006_2014_SM1 - Spanish & Latin American Studies Thesis
+SPAN70001_2014_RS1 - Major Thesis - Spanish
+THTR70017_2014_RS1 - Major Thesis - Theatre Studies
+UNIB10002_2014_SM1 - Logic: Language and Information
+UNIB10003_2014_SM1 - An Ecological History of Humanity
+UNIB20016_2014_SM1 - Same-Sex Desire: From God to Genes
+VISM40002_2014_SM1 - Directed Reading
+VISM40003_2014_SM1 - Critical Studies Culture & Creative Arts
+VISM40004_2014_SM1 - Practical Project
+VISM40008_2014_SM1 - IT and Creative Practice
+VISM40010_2014_SM1 - Digital Imaging for Multimedia
+VISM40012_2014_SM1 - Research Project
+VISM40013_2014_SM1 - Research Methodology
+VISM90008_2014_RS1 - Master of Creative Arts
+XNTS10025_2014_SM1 - MCD-Introduction to Systematic Theology
+XNTS10028_2014_SM1 - Deakin:Intro to Contemp Dance Practice A
+XNTS10029_2014_SM1 - Monash: Korean 1
+XNTS10030_2014_SUM - Changing the World with the Word
+XNTS10031_2014_SM1 - Victoria Uni: Intermediate Vietnamese A
+XNTS20060_2014_SUM - Monash: Ethics
+XNTS20061_2014_SM1 - USyd: Contemporary Europe
+XNTS20062_2014_SM1 - Introduction to Church History 1
+XNTS20064_2014_SM1 - Latrobe: Portuguese Beginners 2A
+XNTS20066_2014_SM1 - Monash: Ukrainian Studies 5
+XNTS20068_2014_SUM - Mon:PLT2980 Issues in Global Politics
+XNTS20069_2014_SM1 - ANU-Contemporary Political Theory
+XNTS20070_2014_SM1 - ANU-Traditional Grammar
+XNTS20071_2014_SM1 - Macquarie University -Latin A
+XNTS30027_2014_SM1 - ANU:ANIP3004 National Internship A
+XNTS30042_2014_SM1 - Fine Art Photography 1A
+XNTS30043_2014_SM1 - Sound Design 1A
+XNTS30044_2014_SM1 - Video Art 1A
+XNTS30046_2014_SM1 - Selected Topics in French Studies
+XNTS30047_2014_SM1 - Advanced French
+XNTS30048_2014_SM1 - Nationalism
+XNTS30049_2014_SM1 - Australian Foreign & Defence Policy
+XNTS30050_2014_SM1 - Australia and the World
+XNTS30051_2014_SM1 - American Politics & Foreign Policy
+XNTS30052_2014_APR - Southeast Asia Field School:Contemporary
+XNTS30068_2014_SM1 - RMIT: Audio Technology
+XNTS30069_2014_SM1 - RMIT: Screen Narrative
+XNTS30070_2014_SM1 - RMIT: Tech Composition & Perception 1A
+XNTS30082_2014_SM1 - RMIT: Forensic Psychology
+XNTS30083_2014_SUM - Monash: Issues in Global Politics
+XNTS30084_2014_SUM - Monash: Space Time and Deity
+XNTS30085_2014_SM1 - Monash: Ukrainian Studies 7
+XNTS30088_2014_SUM - Old Testament Survey
+XNTS30090_2014_SM1 - Latrobe: European Languages in Context
+XNTS30092_2014_SM1 - Latrobe: Theory Culture and Society
+XNTS30094_2014_SM1 - ANU: Australian National Internship B
+XNTS30095_2014_SM1 - UNSW-US Hegemony & International Law
+XNTS30096_2014_SM1 - UNSW-Australian Foreign Policy
+XNTS30097_2014_SM1 - Internat. Relations in North-East Asia
+XNTS30101_2014_SM1 - Monash: Auslan 3A
+XNTS30103_2014_SM1 - ANU: Aust. Foreign Policy: Foreign Wars
+XNTS40031_2014_SM1 - RMIT: Forensic Studies
+XNTS40032_2014_SM1 - Applied Human Rights & Indigenous People
+XNTS40033_2014_SM1 - ANU-Aboriginal Public Policy
+XNTS40034_2014_SM1 - ANU-China's Defence&Strategic Challenge
+XNTS40039_2014_SM1 - RMIT: Planing for Community Development
+XNTS90070_2014_SM1 - RMIT: Human Trafficking
+XNTS90071_2014_SUM - Adelaide University:Leading and Managing
+XNTS90072_2014_SM1 - Public Health in Refugee Settings
+XNTS90073_2014_SM1 - Urbanisation Issue in the Develop. World

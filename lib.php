@@ -59,6 +59,83 @@ function __truncate_table($table_name)
 	$res = $mysqli->query($sql) or $mysqli->sqlstate;
 }
 
+function __import_from_excel_to_db_simple($input_file, $sheet_name, $table_name)
+{
+	global $mysqli;
+
+	$input_file_type = PHPExcel_IOFactory::identify($input_file);
+	$obj_reader = PHPExcel_IOFactory::createReader($input_file_type);
+	$obj_reader->setLoadSheetsOnly($sheet_name); 
+	$excel_obj = $obj_reader->load($input_file);
+	
+	$sheet_data = $excel_obj->getActiveSheet()->toArray(null,true,true,true);
+	
+	$counter = 0;
+	$row_count = 0;
+	$max_row_num = 1491;
+	foreach($sheet_data as $row)
+	{	
+		if($row_count >= $max_row_num) {
+			break;
+		}
+	
+		// Ignore 1st and 2nd rows
+		if($row_count <= 1) {
+			++$row_count;
+			continue;
+		}
+		
+		// School is empty, skip
+		$school = trim($row["D"]);
+		if( empty($school) ) {
+			continue;
+		}
+
+		// Different schools, but has same teaching_org_id					
+		$school = $mysqli->real_escape_string( trim($row["D"]) ); 
+
+		$subject_id = trim($row["F"]);
+		$parts = explode("_", $subject_id, 3);
+		
+		$package_code = $mysqli->real_escape_string( $parts[0] );
+		$year = $mysqli->real_escape_string( $parts[1] );
+		$study_period = $mysqli->real_escape_string( $parts[2] );
+		
+		$subject_name = $mysqli->real_escape_string( trim($row["G"]) );
+		$first_name = $mysqli->real_escape_string( trim($row["I"]) );
+		$last_name = $mysqli->real_escape_string( trim($row["J"]) );
+		
+		// Remove duplication
+		if(!__subject_exists($table_name, $package_code, $study_period, $year)) {
+			$sql = "
+				INSERT INTO 
+					$table_name 
+				SET
+					school = '$school', 
+					package_code = '$package_code',
+					year = '$year',
+					study_period = '$study_period',
+					
+					subject_name = '$subject_name',
+					first_name = '$first_name',
+					last_name = '$last_name'
+			";
+			
+			if(!$mysqli->query($sql)) 
+			{
+		  	printf("Error: %s\n", $mysqli->sqlstate);
+			}
+			
+			++$counter;
+		}
+		
+		++$row_count;
+	}
+	
+	echo "\nImport num: $counter\n";
+}
+
+
 function __import_from_excel_to_db($input_file, $sheet_name, $table_name)
 {
 	global $mysqli;
@@ -127,6 +204,9 @@ function __import_from_excel_to_db($input_file, $sheet_name, $table_name)
 	
 	echo "\nImport num: $counter\n";
 }
+
+
+
 
 function __get_teaching_org_ids($year, $table_name)
 {
@@ -233,4 +313,80 @@ function __subject_exists($table_name, $package_code, $study_period, $year) {
 	else {
 		return false;
 	}
+}
+
+// Study period is changing each time
+function __get_sm1_study_periods()
+{	
+	$array = array(
+		'JAN',
+		'FEB',
+		'MAR',
+		'MAR_PAR_2',
+		'APR',
+		"APR_PAR_2",
+		"MAY",
+		"MAY_PAR_2",
+    "JUN",
+    "SM1",
+    "SM1_PAR_2",
+    "SM1_PAR_3",
+    "SUM",
+    "SUM_SIN_1",
+    "RS1",
+	);
+	
+	return $array;
+}
+
+
+function __get_sm2_study_periods()
+{	
+	$array = array(
+		"JUL",
+		"JUL_PAR_2",
+    "AUG",
+    "AUG_PAR_2",
+    "SEP",
+    "SEP_PAR_2",
+    "OCT",
+    "NOV",
+    "NOV_PAR_2",
+    "SM2",
+    "SM2_PAR_2",
+    "SM2_PAR_3",
+    "WIN",
+    "RS2"
+	);
+	
+	return $array;
+}
+
+function __write($option_text, $output_folder, $filename)
+{
+	$fp = fopen($output_folder. "/". $filename, 'w');
+	fwrite($fp, $option_text);
+	fclose($fp);
+}
+
+function __build_study_period_sql_string($semester) {
+	$study_period_string = "";
+
+	$myfunc = "__get_". $semester. "_study_periods";
+	
+	$study_periods = $myfunc();
+	$total_num = count($study_periods);
+	$count = 1;
+	foreach($study_periods as $study_period) {
+		if($count <= $total_num - 1) {
+			$study_period_string .= "'". $study_period. "',";
+		}
+		else {
+			$study_period_string .= "'". $study_period. "'";
+		}
+		
+		++$count;
+	}
+	
+	return $study_period_string;
 }

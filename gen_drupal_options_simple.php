@@ -62,7 +62,17 @@ function __output_drupal_option($table_name, $output_folder)
 	
 	$return_string = "";
 	$study_period_string = __build_study_period_sql_string($curr_semester);
-	
+
+	$sql = "
+    SELECT
+      CONCAT( CONCAT_WS('_', package_code, year, study_period), ' - ', subject_name ) AS my_column_name
+    FROM 
+      $table_name 
+    ORDER BY
+      my_column_name  
+  ";
+
+	/*	
 	$sql = "
 		SELECT
 			CONCAT( CONCAT_WS('_', package_code, year, study_period), ' - ', subject_name ) AS my_column_name
@@ -73,7 +83,8 @@ function __output_drupal_option($table_name, $output_folder)
 		ORDER BY
 			my_column_name	
 	";
-	
+	*/	
+
 	$res = $mysqli->query($sql) or $mysqli->sqlstate;
 	while($row = $res->fetch_array())
 	{
